@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<videos>
+  <video>
+    <directory>O:\videos_Z</directory>
+    <name>test.avi</name>
+    <status>Не загружено</status>
+  </video>
+  <video>
+    <directory>O:\videos_Z</directory>
+    <name>example.avi</name>
+    <status>Не загружено</status>
+  </video>
+</videos>
